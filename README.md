@@ -59,7 +59,7 @@ I am a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Bash" **alt="Bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
-
-
-
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KereMath&theme=dark&background=000000)](https://git.io/streak-stats)
