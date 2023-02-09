@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: About Me :
+I am a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+
