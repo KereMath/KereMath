@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :telescope: I’m a junior student in Middle East Technical University.
+- :telescope: I earned my Bachelor’s degree from the Department of Computer Engineering at Middle East Technical University, and I am currently pursuing my Master of Science degree in the same department.
 
 - :seedling: Exploring Technical Content Writing.
 
